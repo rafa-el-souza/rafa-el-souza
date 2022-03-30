@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<div align="right">
+<div align="left">
 
   # Hi there, I'm Rafa! 👋 
 
