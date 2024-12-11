@@ -32,18 +32,7 @@
     🗜️ I'm passionate about 🔩 maker culture 🗜️, focusing on 3D printing and IoT
   </li>
   <li>
-    🦄 I'm a huge Carnaval and music festivals enthusiast
-  </li>
-  <li>
     💬 Let's talk about human consciousness evolution 🌎🌌
-  </li>
-  <li>
-    🙈🙊🙉 Two truths, one lie:
-      <ul>
-        <li>I almost died in a bus crash</li>
-        <li>I've a pharmacy degree</li>
-        <li>I traveled by bike in South America and Europe</li>
-      </ul>
   </li>
 </ul>
 
