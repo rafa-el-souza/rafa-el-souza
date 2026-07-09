@@ -10,4 +10,4 @@ CI, and spec-driven development workflows. Learning Go.
 
 **Stack:** Ruby/Rails · PostgreSQL · Node/TypeScript · React · Python · Bash · Docker · Linux
 
-📫 rafasouza.developer@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafa-el-souza)
+📫 rafasouza.dev@pm.me · [LinkedIn](https://www.linkedin.com/in/rafa-el-souza)
